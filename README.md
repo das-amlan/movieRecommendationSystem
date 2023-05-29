@@ -1,6 +1,11 @@
 # Movie Recommendation System
 End To End Machine Learning Implementation of a movie recommendation system
 
+## Introduction
+The recommendation system is built using Python and uses content based filtering techniques to provide personalized movie recommendations to users.
+
+- Content Based Filtering: Content based filtering is a recommendation technique that uses the characteristics or attributes of items to make personalized recommendations. In the context of movie recommendation systems, content-based filtering analyzes the characteristics or content of movies, such as genre, actors, director, and plot, to identify similar movies and suggest them to users.
+
 
 ## Dataset Overview
 The recommendation system utilizes the TMDB Movie Metadata dataset from Kaggle, a comprehensive collection of movie information including titles, genres, cast and crew details, release dates, ratings, and much more. This dataset offers a wide array of attributes that form the basis for our intelligent recommendation system. With information spanning over several decades, the dataset presents a wealth of cinematic content, allowing us to a recommendation system from broad selection of movies.
